@@ -4,3 +4,4 @@ streamlit
 pickle
 scikit-learn
 pip==23.1.2
+matplotlib==3.7.1
